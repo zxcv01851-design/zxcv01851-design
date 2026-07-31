@@ -1,6 +1,6 @@
-# 박준형 👋
+# 박준형 
 
-## 💻 Developer
+##  Developer
 
 서비스를 직접 만들고 개선하는 과정에 관심이 있는 개발자입니다.
 
@@ -9,9 +9,9 @@ AI, Backend, Data 분야를 중심으로 프로젝트를 진행하며
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🤖 Articlue AI
+###  Articlue AI
 
 LLM 기반 이력서 분석 및 채용공고 매칭 서비스
 
@@ -29,7 +29,7 @@ LLM 기반 이력서 분석 및 채용공고 매칭 서비스
 
 ---
 
-### 🌱 FitFarm
+###  FitFarm
 
 청년 농산물 플랫폼 개발 프로젝트
 
@@ -46,7 +46,7 @@ LLM 기반 이력서 분석 및 채용공고 매칭 서비스
 
 ---
 
-### 🏠 Apartment Price Prediction
+###  Apartment Price Prediction
 
 아파트 실거래가 예측 프로젝트
 
@@ -64,7 +64,7 @@ LLM 기반 이력서 분석 및 채용공고 매칭 서비스
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 **Language**
 `Python` `JavaScript` `C`
