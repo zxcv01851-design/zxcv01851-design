@@ -1,6 +1,6 @@
-# 박준형
+# 박준형 👋
 
-## Developer
+## About Me
 
 서비스를 만들고 문제를 해결하는 과정에 관심이 있는 개발자입니다.
 
@@ -9,7 +9,7 @@ AI, Backend, Data 분야의 프로젝트를 진행하며
 
 ---
 
-## Projects
+## 📌 Projects
 
 ### Articlue AI
 
@@ -20,7 +20,7 @@ LLM 기반 이력서 분석 및 채용공고 매칭 서비스
 - Embedding과 ChromaDB를 활용한 벡터 검색 기능 구현
 - FastAPI 기반 API 개발 및 서비스 기능 연동
 
-Tech Stack
+**Tech Stack**
 
 `Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB` `React` `MySQL`
 
@@ -38,7 +38,7 @@ https://github.com/kdt-mx-articlue/articlue-ai
 - 컴포넌트 설계 및 UI 구현
 - API 연동을 통한 데이터 처리
 
-Tech Stack
+**Tech Stack**
 
 `React` `JavaScript` `Vite` `CSS`
 
@@ -57,7 +57,7 @@ https://github.com/2025-DongA-DataAI-3/fitfarm_front
 - 머신러닝 모델 학습 및 예측 결과 비교
 - 데이터 시각화를 통한 분석 결과 확인
 
-Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
@@ -67,20 +67,25 @@ https://github.com/2025-DongA-DataAI-3/APT
 
 ---
 
-## Skills
+## 🛠 Skills
 
-Language  
+**Language**
+
 `Python` `JavaScript` `C`
 
-Backend  
+**Backend**
+
 `FastAPI` `MySQL`
 
-AI / Data  
+**AI / Data**
+
 `LLM` `LangChain` `LangGraph`  
 `ChromaDB` `Pandas` `Scikit-learn`
 
-Frontend  
+**Frontend**
+
 `React` `Vite`
 
-Tools  
+**Tools**
+
 `Git` `Docker`
